@@ -1,0 +1,349 @@
+,Date,Start (ET),Visitor/Net,Home/Net,Visitor_team_prob,Home_team_prob
+0,"Sat, Feb 24, 2018",8:30 pm,Oklahoma City Thunder,Golden State Warriors,0.2047457055683316,0.7952542944316684
+1,"Sat, Feb 24, 2018",7:30 pm,Memphis Grizzlies,Miami Heat,0.2528967585171181,0.7471032414828819
+2,"Sat, Feb 24, 2018",9:00 pm,Chicago Bulls,Minnesota Timberwolves,0.17689281144088698,0.823107188559113
+3,"Sat, Feb 24, 2018",7:30 pm,Boston Celtics,New York Knicks,0.7032407324423519,0.29675926755764814
+4,"Sat, Feb 24, 2018",5:00 pm,Orlando Magic,Philadelphia 76ers,0.20209084938845356,0.7979091506115464
+5,"Sat, Feb 24, 2018",9:00 pm,Portland Trail Blazers,Phoenix Suns,0.7411031136173805,0.2588968863826195
+6,"Sat, Feb 24, 2018",10:00 pm,Los Angeles Lakers,Sacramento Kings,0.6574112568673725,0.3425887431326275
+7,"Sat, Feb 24, 2018",9:00 pm,Dallas Mavericks,Utah Jazz,0.16274955908362698,0.837250440916373
+8,"Sun, Feb 25, 2018",1:00 pm,Detroit Pistons,Charlotte Hornets,0.41281290228648726,0.5871870977135127
+9,"Sun, Feb 25, 2018",3:30 pm,San Antonio Spurs,Cleveland Cavaliers,0.39233316197482526,0.6076668380251747
+10,"Sun, Feb 25, 2018",8:00 pm,Houston Rockets,Denver Nuggets,0.5866291187758585,0.4133708812241414
+11,"Sun, Feb 25, 2018",3:00 pm,New Orleans Pelicans,Milwaukee Bucks,0.4489517745711368,0.5510482254288632
+12,"Sun, Feb 25, 2018",8:00 pm,Philadelphia 76ers,Washington Wizards,0.475754617405751,0.524245382594249
+13,"Mon, Feb 26, 2018",7:30 pm,Los Angeles Lakers,Atlanta Hawks,0.5857371881800302,0.41426281181996977
+14,"Mon, Feb 26, 2018",7:30 pm,Memphis Grizzlies,Boston Celtics,0.1476477504278716,0.8523522495721284
+15,"Mon, Feb 26, 2018",7:30 pm,Chicago Bulls,Brooklyn Nets,0.45523088633505604,0.544769113664944
+16,"Mon, Feb 26, 2018",8:30 pm,Indiana Pacers,Dallas Mavericks,0.5630359658069704,0.43696403419302965
+17,"Mon, Feb 26, 2018",8:00 pm,Phoenix Suns,New Orleans Pelicans,0.24927616200977998,0.75072383799022
+18,"Mon, Feb 26, 2018",7:30 pm,Golden State Warriors,New York Knicks,0.7962452544557604,0.20375474554423956
+19,"Mon, Feb 26, 2018",8:00 pm,Orlando Magic,Oklahoma City Thunder,0.14820649607336145,0.8517935039266386
+20,"Mon, Feb 26, 2018",10:00 pm,Minnesota Timberwolves,Sacramento Kings,0.696391046020046,0.30360895397995397
+21,"Mon, Feb 26, 2018",7:30 pm,Detroit Pistons,Toronto Raptors,0.16331069133780252,0.8366893086621975
+22,"Mon, Feb 26, 2018",9:00 pm,Houston Rockets,Utah Jazz,0.6063802453570364,0.39361975464296356
+23,"Tue, Feb 27, 2018",7:00 pm,Chicago Bulls,Charlotte Hornets,0.3136961849364093,0.6863038150635907
+24,"Tue, Feb 27, 2018",7:00 pm,Brooklyn Nets,Cleveland Cavaliers,0.18590396947872612,0.8140960305212739
+25,"Tue, Feb 27, 2018",10:30 pm,Los Angeles Clippers,Denver Nuggets,0.3850240282134689,0.6149759717865311
+26,"Tue, Feb 27, 2018",7:30 pm,Philadelphia 76ers,Miami Heat,0.5700039967115673,0.4299960032884327
+27,"Tue, Feb 27, 2018",8:00 pm,Washington Wizards,Milwaukee Bucks,0.4309891253088656,0.5690108746911344
+28,"Tue, Feb 27, 2018",10:00 pm,Sacramento Kings,Portland Trail Blazers,0.20472862673534165,0.7952713732646584
+29,"Wed, Feb 28, 2018",7:30 pm,Indiana Pacers,Atlanta Hawks,0.6227632702378533,0.3772367297621467
+30,"Wed, Feb 28, 2018",7:30 pm,Charlotte Hornets,Boston Celtics,0.2494188447484199,0.7505811552515801
+31,"Wed, Feb 28, 2018",8:30 pm,Oklahoma City Thunder,Dallas Mavericks,0.5598087910310884,0.4401912089689116
+32,"Wed, Feb 28, 2018",7:00 pm,Milwaukee Bucks,Detroit Pistons,0.44710643398231353,0.5528935660176865
+33,"Wed, Feb 28, 2018",10:30 pm,Houston Rockets,Los Angeles Clippers,0.6410889627264623,0.3589110372735377
+34,"Wed, Feb 28, 2018",8:00 pm,Phoenix Suns,Memphis Grizzlies,0.3789338404838989,0.6210661595161011
+35,"Wed, Feb 28, 2018",7:00 pm,Toronto Raptors,Orlando Magic,0.7640834188328582,0.23591658116714173
+36,"Wed, Feb 28, 2018",8:30 pm,New Orleans Pelicans,San Antonio Spurs,0.39944937472028796,0.600550625279712
+37,"Wed, Feb 28, 2018",8:00 pm,Golden State Warriors,Washington Wizards,0.6793524801968573,0.32064751980314266
+38,"Thu, Mar 1, 2018",8:00 pm,Philadelphia 76ers,Cleveland Cavaliers,0.4738967445354447,0.5261032554645553
+39,"Thu, Mar 1, 2018",7:30 pm,Los Angeles Lakers,Miami Heat,0.43640023786048077,0.5635997621395192
+40,"Thu, Mar 1, 2018",10:30 pm,Minnesota Timberwolves,Portland Trail Blazers,0.3941877524283023,0.6058122475716977
+41,"Thu, Mar 1, 2018",10:00 pm,Brooklyn Nets,Sacramento Kings,0.45439981771458515,0.5456001822854148
+42,"Fri, Mar 2, 2018",7:30 pm,Golden State Warriors,Atlanta Hawks,0.8496524727910889,0.15034752720891106
+43,"Fri, Mar 2, 2018",8:00 pm,Dallas Mavericks,Chicago Bulls,0.36850718826868334,0.6314928117313167
+44,"Fri, Mar 2, 2018",10:30 pm,New York Knicks,Los Angeles Clippers,0.25827463632236025,0.7417253636776397
+45,"Fri, Mar 2, 2018",8:00 pm,Denver Nuggets,Memphis Grizzlies,0.5843624847866886,0.4156375152133113
+46,"Fri, Mar 2, 2018",8:00 pm,Indiana Pacers,Milwaukee Bucks,0.38972825841449643,0.6102717415855036
+47,"Fri, Mar 2, 2018",7:00 pm,Detroit Pistons,Orlando Magic,0.5537102469012969,0.44628975309870306
+48,"Fri, Mar 2, 2018",7:00 pm,Charlotte Hornets,Philadelphia 76ers,0.3412123482471878,0.6587876517528122
+49,"Fri, Mar 2, 2018",9:00 pm,Oklahoma City Thunder,Phoenix Suns,0.7368764084857533,0.2631235915142467
+50,"Fri, Mar 2, 2018",10:30 pm,Minnesota Timberwolves,Utah Jazz,0.39373646660563,0.60626353339437
+51,"Fri, Mar 2, 2018",8:00 pm,Toronto Raptors,Washington Wizards,0.5438934705435294,0.4561065294564706
+52,"Sat, Mar 3, 2018",7:30 pm,Denver Nuggets,Cleveland Cavaliers,0.37069784173928144,0.6293021582607186
+53,"Sat, Mar 3, 2018",8:30 pm,Boston Celtics,Houston Rockets,0.29881925134417076,0.7011807486558292
+54,"Sat, Mar 3, 2018",7:30 pm,Detroit Pistons,Miami Heat,0.400214012696287,0.599785987303713
+55,"Sat, Mar 3, 2018",7:00 pm,Memphis Grizzlies,Orlando Magic,0.38628019955788095,0.613719800442119
+56,"Sat, Mar 3, 2018",10:00 pm,Oklahoma City Thunder,Portland Trail Blazers,0.385488054699044,0.614511945300956
+57,"Sat, Mar 3, 2018",10:00 pm,Utah Jazz,Sacramento Kings,0.6276977736677967,0.3723022263322034
+58,"Sat, Mar 3, 2018",9:00 pm,Los Angeles Lakers,San Antonio Spurs,0.30869431553244353,0.6913056844675565
+59,"Sun, Mar 4, 2018",3:30 pm,Phoenix Suns,Atlanta Hawks,0.40721812957757275,0.5927818704224272
+60,"Sun, Mar 4, 2018",7:00 pm,New Orleans Pelicans,Dallas Mavericks,0.6217635574601491,0.3782364425398509
+61,"Sun, Mar 4, 2018",9:00 pm,Brooklyn Nets,Los Angeles Clippers,0.21471402027624642,0.7852859797237536
+62,"Sun, Mar 4, 2018",8:00 pm,Philadelphia 76ers,Milwaukee Bucks,0.4835745333830783,0.5164254666169217
+63,"Sun, Mar 4, 2018",9:00 pm,New York Knicks,Sacramento Kings,0.5147148580153562,0.4852851419846438
+64,"Sun, Mar 4, 2018",6:00 pm,Charlotte Hornets,Toronto Raptors,0.15962906575553437,0.8403709342444656
+65,"Sun, Mar 4, 2018",6:00 pm,Indiana Pacers,Washington Wizards,0.3823024831149936,0.6176975168850064
+66,"Mon, Mar 5, 2018",8:00 pm,Boston Celtics,Chicago Bulls,0.7981150456050299,0.2018849543949701
+67,"Mon, Mar 5, 2018",7:00 pm,Detroit Pistons,Cleveland Cavaliers,0.3119649448141547,0.6880350551858453
+68,"Mon, Mar 5, 2018",7:00 pm,Milwaukee Bucks,Indiana Pacers,0.3555033521907326,0.6444966478092674
+69,"Mon, Mar 5, 2018",10:30 pm,Portland Trail Blazers,Los Angeles Lakers,0.6048583646999995,0.39514163530000046
+70,"Mon, Mar 5, 2018",7:30 pm,Phoenix Suns,Miami Heat,0.27336176339389395,0.726638236606106
+71,"Mon, Mar 5, 2018",8:30 pm,Memphis Grizzlies,San Antonio Spurs,0.16332849085877288,0.8366715091412271
+72,"Mon, Mar 5, 2018",9:00 pm,Orlando Magic,Utah Jazz,0.18221874543872663,0.8177812545612734
+73,"Tue, Mar 6, 2018",7:00 pm,Philadelphia 76ers,Charlotte Hornets,0.5827546626707696,0.4172453373292304
+74,"Tue, Mar 6, 2018",8:30 pm,Denver Nuggets,Dallas Mavericks,0.5526801408970077,0.4473198591029924
+75,"Tue, Mar 6, 2018",10:30 pm,Brooklyn Nets,Golden State Warriors,0.08839449856208315,0.9116055014379169
+76,"Tue, Mar 6, 2018",10:30 pm,New Orleans Pelicans,Los Angeles Clippers,0.4841097927430882,0.5158902072569118
+77,"Tue, Mar 6, 2018",8:00 pm,Houston Rockets,Oklahoma City Thunder,0.5460618617135558,0.4539381382864442
+78,"Tue, Mar 6, 2018",10:00 pm,New York Knicks,Portland Trail Blazers,0.2312907611991265,0.7687092388008735
+79,"Tue, Mar 6, 2018",7:00 pm,Atlanta Hawks,Toronto Raptors,0.07083664174772175,0.9291633582522782
+80,"Tue, Mar 6, 2018",7:00 pm,Miami Heat,Washington Wizards,0.3836423455102257,0.6163576544897743
+81,"Wed, Mar 7, 2018",8:00 pm,Memphis Grizzlies,Chicago Bulls,0.4162521632227655,0.5837478367772345
+82,"Wed, Mar 7, 2018",10:30 pm,Cleveland Cavaliers,Denver Nuggets,0.45107013793171535,0.5489298620682846
+83,"Wed, Mar 7, 2018",8:00 pm,Toronto Raptors,Detroit Pistons,0.6174805250996134,0.3825194749003866
+84,"Wed, Mar 7, 2018",7:00 pm,Utah Jazz,Indiana Pacers,0.30072223112490437,0.6992777688750956
+85,"Wed, Mar 7, 2018",10:30 pm,Orlando Magic,Los Angeles Lakers,0.347659699582197,0.652340300417803
+86,"Wed, Mar 7, 2018",8:00 pm,Houston Rockets,Milwaukee Bucks,0.6079656860824257,0.39203431391757426
+87,"Wed, Mar 7, 2018",10:00 pm,New Orleans Pelicans,Sacramento Kings,0.7408228527102416,0.25917714728975844
+88,"Thu, Mar 8, 2018",7:00 pm,Brooklyn Nets,Charlotte Hornets,0.26148815463904596,0.738511845360954
+89,"Thu, Mar 8, 2018",10:30 pm,San Antonio Spurs,Golden State Warriors,0.21516557924381985,0.7848344207561802
+90,"Thu, Mar 8, 2018",7:30 pm,Philadelphia 76ers,Miami Heat,0.5700039967115673,0.4299960032884327
+91,"Thu, Mar 8, 2018",8:00 pm,Boston Celtics,Minnesota Timberwolves,0.48178006799480255,0.5182199320051974
+92,"Thu, Mar 8, 2018",8:00 pm,Phoenix Suns,Oklahoma City Thunder,0.1709054969355841,0.8290945030644159
+93,"Fri, Mar 9, 2018",9:00 pm,Los Angeles Lakers,Denver Nuggets,0.3335662990314815,0.6664337009685185
+94,"Fri, Mar 9, 2018",7:00 pm,Chicago Bulls,Detroit Pistons,0.2867535174451311,0.7132464825548689
+95,"Fri, Mar 9, 2018",7:00 pm,Atlanta Hawks,Indiana Pacers,0.14144575959241212,0.8585542404075879
+96,"Fri, Mar 9, 2018",10:30 pm,Cleveland Cavaliers,Los Angeles Clippers,0.5084237684993068,0.4915762315006932
+97,"Fri, Mar 9, 2018",8:00 pm,Utah Jazz,Memphis Grizzlies,0.5245666824787701,0.47543331752122986
+98,"Fri, Mar 9, 2018",8:00 pm,New York Knicks,Milwaukee Bucks,0.2321376168475412,0.7678623831524588
+99,"Fri, Mar 9, 2018",8:00 pm,Washington Wizards,New Orleans Pelicans,0.4862365977348707,0.5137634022651293
+100,"Fri, Mar 9, 2018",10:00 pm,Golden State Warriors,Portland Trail Blazers,0.6851136118086895,0.31488638819131054
+101,"Fri, Mar 9, 2018",10:00 pm,Orlando Magic,Sacramento Kings,0.4403890513546277,0.5596109486453723
+102,"Fri, Mar 9, 2018",7:30 pm,Houston Rockets,Toronto Raptors,0.3910590278611471,0.6089409721388529
+103,"Sat, Mar 10, 2018",5:00 pm,Phoenix Suns,Charlotte Hornets,0.28385720864025554,0.7161427913597445
+104,"Sat, Mar 10, 2018",8:30 pm,Memphis Grizzlies,Dallas Mavericks,0.32544323201791636,0.6745567679820836
+105,"Sat, Mar 10, 2018",10:30 pm,Orlando Magic,Los Angeles Clippers,0.20531258240903805,0.794687417590962
+106,"Sat, Mar 10, 2018",7:30 pm,Washington Wizards,Miami Heat,0.5174369978532609,0.48256300214673914
+107,"Sat, Mar 10, 2018",8:30 pm,San Antonio Spurs,Oklahoma City Thunder,0.3423744675234799,0.6576255324765201
+108,"Sun, Mar 11, 2018",3:30 pm,Chicago Bulls,Atlanta Hawks,0.4420208093908118,0.5579791906091882
+109,"Sun, Mar 11, 2018",7:30 pm,Indiana Pacers,Boston Celtics,0.31630389184467655,0.6836961081553234
+110,"Sun, Mar 11, 2018",7:30 pm,Philadelphia 76ers,Brooklyn Nets,0.7185802410375737,0.2814197589624264
+111,"Sun, Mar 11, 2018",7:00 pm,Houston Rockets,Dallas Mavericks,0.7578111288200698,0.24218887117993018
+112,"Sun, Mar 11, 2018",5:00 pm,Sacramento Kings,Denver Nuggets,0.1913963368728726,0.8086036631271274
+113,"Sun, Mar 11, 2018",9:00 pm,Cleveland Cavaliers,Los Angeles Lakers,0.6808696573710897,0.31913034262891027
+114,"Sun, Mar 11, 2018",3:30 pm,Golden State Warriors,Minnesota Timberwolves,0.6052287939261772,0.39477120607382277
+115,"Sun, Mar 11, 2018",4:00 pm,Utah Jazz,New Orleans Pelicans,0.3751807294237227,0.6248192705762773
+116,"Sun, Mar 11, 2018",1:00 pm,Toronto Raptors,New York Knicks,0.6874489050735577,0.31255109492644234
+117,"Mon, Mar 12, 2018",8:00 pm,San Antonio Spurs,Houston Rockets,0.17747089012284345,0.8225291098771566
+118,"Mon, Mar 12, 2018",8:00 pm,Milwaukee Bucks,Memphis Grizzlies,0.5859558906173914,0.41404410938260866
+119,"Mon, Mar 12, 2018",8:00 pm,Sacramento Kings,Oklahoma City Thunder,0.16711146243977748,0.8328885375602225
+120,"Mon, Mar 12, 2018",10:30 pm,Miami Heat,Portland Trail Blazers,0.38994544203220305,0.610054557967797
+121,"Tue, Mar 13, 2018",7:30 pm,Oklahoma City Thunder,Atlanta Hawks,0.6196792444470327,0.38032075555296735
+122,"Tue, Mar 13, 2018",7:30 pm,Toronto Raptors,Brooklyn Nets,0.7703900015582029,0.22960999844179705
+123,"Tue, Mar 13, 2018",8:00 pm,Los Angeles Clippers,Chicago Bulls,0.6710816318774642,0.3289183681225359
+124,"Tue, Mar 13, 2018",10:30 pm,Denver Nuggets,Los Angeles Lakers,0.5926559561154253,0.4073440438845747
+125,"Tue, Mar 13, 2018",8:00 pm,Charlotte Hornets,New Orleans Pelicans,0.36433230966369523,0.6356676903363048
+126,"Tue, Mar 13, 2018",7:30 pm,Dallas Mavericks,New York Knicks,0.25914770461674475,0.7408522953832553
+127,"Tue, Mar 13, 2018",7:00 pm,Indiana Pacers,Philadelphia 76ers,0.41897265701101083,0.5810273429889892
+128,"Tue, Mar 13, 2018",10:00 pm,Cleveland Cavaliers,Phoenix Suns,0.7995895676853093,0.20041043231469066
+129,"Tue, Mar 13, 2018",8:30 pm,Orlando Magic,San Antonio Spurs,0.15477990658002516,0.8452200934199748
+130,"Tue, Mar 13, 2018",9:00 pm,Detroit Pistons,Utah Jazz,0.3189038994156932,0.6810961005843068
+131,"Tue, Mar 13, 2018",7:00 pm,Minnesota Timberwolves,Washington Wizards,0.38785968019205086,0.6121403198079491
+132,"Wed, Mar 14, 2018",8:00 pm,Washington Wizards,Boston Celtics,0.3543043044212354,0.6456956955787646
+133,"Wed, Mar 14, 2018",10:30 pm,Los Angeles Lakers,Golden State Warriors,0.18261806612431852,0.8173819338756815
+134,"Wed, Mar 14, 2018",7:00 pm,Milwaukee Bucks,Orlando Magic,0.618682980280557,0.381317019719443
+135,"Wed, Mar 14, 2018",10:00 pm,Miami Heat,Sacramento Kings,0.6926147428691254,0.3073852571308746
+136,"Thu, Mar 15, 2018",7:30 pm,Charlotte Hornets,Atlanta Hawks,0.5424946018233457,0.45750539817665425
+137,"Thu, Mar 15, 2018",9:00 pm,Detroit Pistons,Denver Nuggets,0.30134780927510985,0.6986521907248902
+138,"Thu, Mar 15, 2018",8:00 pm,Los Angeles Clippers,Houston Rockets,0.18028757214318258,0.8197124278568174
+139,"Thu, Mar 15, 2018",7:00 pm,Toronto Raptors,Indiana Pacers,0.5240568766694609,0.47594312333053906
+140,"Thu, Mar 15, 2018",8:00 pm,Chicago Bulls,Memphis Grizzlies,0.4130034027568721,0.5869965972431279
+141,"Thu, Mar 15, 2018",7:30 pm,Philadelphia 76ers,New York Knicks,0.6260094401050643,0.3739905598949357
+142,"Thu, Mar 15, 2018",10:00 pm,Cleveland Cavaliers,Portland Trail Blazers,0.47193369292708387,0.5280663070729161
+143,"Thu, Mar 15, 2018",8:30 pm,New Orleans Pelicans,San Antonio Spurs,0.39944937472028796,0.600550625279712
+144,"Thu, Mar 15, 2018",9:00 pm,Phoenix Suns,Utah Jazz,0.20884974636748233,0.7911502536325177
+145,"Fri, Mar 16, 2018",10:30 pm,Sacramento Kings,Golden State Warriors,0.09555901027545444,0.9044409897245456
+146,"Fri, Mar 16, 2018",10:30 pm,Miami Heat,Los Angeles Lakers,0.6041083674375608,0.3958916325624392
+147,"Fri, Mar 16, 2018",8:00 pm,Los Angeles Clippers,Oklahoma City Thunder,0.3467051840397195,0.6532948159602805
+148,"Fri, Mar 16, 2018",7:00 pm,Boston Celtics,Orlando Magic,0.7772578208593246,0.22274217914067546
+149,"Fri, Mar 16, 2018",7:00 pm,Brooklyn Nets,Philadelphia 76ers,0.21138400271836388,0.7886159972816361
+150,"Fri, Mar 16, 2018",7:30 pm,Dallas Mavericks,Toronto Raptors,0.07495909510844756,0.9250409048915524
+151,"Sat, Mar 17, 2018",7:30 pm,Dallas Mavericks,Brooklyn Nets,0.347939675229782,0.652060324770218
+152,"Sat, Mar 17, 2018",8:00 pm,Cleveland Cavaliers,Chicago Bulls,0.7281013378650343,0.2718986621349657
+153,"Sat, Mar 17, 2018",8:00 pm,Denver Nuggets,Memphis Grizzlies,0.5843624847866886,0.4156375152133113
+154,"Sat, Mar 17, 2018",6:00 pm,Atlanta Hawks,Milwaukee Bucks,0.1554767233519354,0.8445232766480646
+155,"Sat, Mar 17, 2018",7:00 pm,Houston Rockets,New Orleans Pelicans,0.6596013571357495,0.3403986428642504
+156,"Sat, Mar 17, 2018",7:30 pm,Charlotte Hornets,New York Knicks,0.4505377278228224,0.5494622721771776
+157,"Sat, Mar 17, 2018",10:00 pm,Golden State Warriors,Phoenix Suns,0.9066573338355389,0.0933426661644611
+158,"Sat, Mar 17, 2018",10:00 pm,Detroit Pistons,Portland Trail Blazers,0.3193145895528795,0.6806854104471205
+159,"Sat, Mar 17, 2018",8:30 pm,Minnesota Timberwolves,San Antonio Spurs,0.34800073736371884,0.6519992626362812
+160,"Sat, Mar 17, 2018",9:00 pm,Sacramento Kings,Utah Jazz,0.20442105319422876,0.7955789468057712
+161,"Sat, Mar 17, 2018",7:00 pm,Indiana Pacers,Washington Wizards,0.3823024831149936,0.6176975168850064
+162,"Sun, Mar 18, 2018",10:30 pm,Portland Trail Blazers,Los Angeles Clippers,0.42596750117752646,0.5740324988224735
+163,"Sun, Mar 18, 2018",7:00 pm,Houston Rockets,Minnesota Timberwolves,0.520972553653513,0.479027446346487
+164,"Sun, Mar 18, 2018",6:00 pm,Boston Celtics,New Orleans Pelicans,0.6235554090516513,0.37644459094834876
+165,"Sun, Mar 18, 2018",1:00 pm,Oklahoma City Thunder,Toronto Raptors,0.2069854542538636,0.7930145457461364
+166,"Mon, Mar 19, 2018",7:30 pm,Memphis Grizzlies,Brooklyn Nets,0.3946853627287409,0.6053146372712591
+167,"Mon, Mar 19, 2018",7:00 pm,Milwaukee Bucks,Cleveland Cavaliers,0.3722304028506267,0.6277695971493733
+168,"Mon, Mar 19, 2018",7:00 pm,Los Angeles Lakers,Indiana Pacers,0.3286196516123979,0.6713803483876021
+169,"Mon, Mar 19, 2018",7:30 pm,Denver Nuggets,Miami Heat,0.464348420116372,0.535651579883628
+170,"Mon, Mar 19, 2018",7:30 pm,Chicago Bulls,New York Knicks,0.3539199964779671,0.6460800035220329
+171,"Mon, Mar 19, 2018",7:00 pm,Charlotte Hornets,Philadelphia 76ers,0.3412123482471878,0.6587876517528122
+172,"Mon, Mar 19, 2018",10:00 pm,Detroit Pistons,Sacramento Kings,0.6231617691594549,0.3768382308405452
+173,"Mon, Mar 19, 2018",9:30 pm,Golden State Warriors,San Antonio Spurs,0.6409009668331018,0.3590990331668982
+174,"Tue, Mar 20, 2018",8:00 pm,Oklahoma City Thunder,Boston Celtics,0.31347637627310954,0.6865236237268905
+175,"Tue, Mar 20, 2018",8:00 pm,Los Angeles Clippers,Minnesota Timberwolves,0.32423308170311094,0.6757669182968891
+176,"Tue, Mar 20, 2018",8:00 pm,Dallas Mavericks,New Orleans Pelicans,0.19646849107605058,0.8035315089239494
+177,"Tue, Mar 20, 2018",7:00 pm,Toronto Raptors,Orlando Magic,0.7640834188328582,0.23591658116714173
+178,"Tue, Mar 20, 2018",10:00 pm,Detroit Pistons,Phoenix Suns,0.6768189329803143,0.3231810670196858
+179,"Tue, Mar 20, 2018",10:30 pm,Houston Rockets,Portland Trail Blazers,0.6068313029304515,0.39316869706954843
+180,"Tue, Mar 20, 2018",9:00 pm,Atlanta Hawks,Utah Jazz,0.15460592292060782,0.8453940770793922
+181,"Wed, Mar 21, 2018",7:30 pm,Charlotte Hornets,Brooklyn Nets,0.5557168533694832,0.44428314663051677
+182,"Wed, Mar 21, 2018",8:00 pm,Denver Nuggets,Chicago Bulls,0.6461584289101879,0.35384157108981207
+183,"Wed, Mar 21, 2018",7:00 pm,Toronto Raptors,Cleveland Cavaliers,0.5420446319808485,0.45795536801915143
+184,"Wed, Mar 21, 2018",7:30 pm,New York Knicks,Miami Heat,0.2997083236761403,0.7002916763238597
+185,"Wed, Mar 21, 2018",8:00 pm,Los Angeles Clippers,Milwaukee Bucks,0.40623399623738254,0.5937660037626175
+186,"Wed, Mar 21, 2018",8:00 pm,Indiana Pacers,New Orleans Pelicans,0.44381196817873325,0.5561880318212667
+187,"Wed, Mar 21, 2018",7:00 pm,Memphis Grizzlies,Philadelphia 76ers,0.2125952032260452,0.7874047967739548
+188,"Wed, Mar 21, 2018",9:30 pm,Washington Wizards,San Antonio Spurs,0.38209398791419136,0.6179060120858086
+189,"Thu, Mar 22, 2018",7:00 pm,Memphis Grizzlies,Charlotte Hornets,0.2628907414706575,0.7371092585293425
+190,"Thu, Mar 22, 2018",8:30 pm,Utah Jazz,Dallas Mavericks,0.4922864817007657,0.5077135182992343
+191,"Thu, Mar 22, 2018",8:00 pm,Detroit Pistons,Houston Rockets,0.131585665619385,0.868414334380615
+192,"Thu, Mar 22, 2018",8:00 pm,Los Angeles Lakers,New Orleans Pelicans,0.4059753514520932,0.5940246485479068
+193,"Thu, Mar 22, 2018",7:00 pm,Philadelphia 76ers,Orlando Magic,0.7113837456644534,0.28861625433554666
+194,"Thu, Mar 22, 2018",10:00 pm,Atlanta Hawks,Sacramento Kings,0.39242750622685574,0.6075724937731443
+195,"Fri, Mar 23, 2018",8:00 pm,Milwaukee Bucks,Chicago Bulls,0.6476577725238101,0.35234222747618993
+196,"Fri, Mar 23, 2018",7:30 pm,Phoenix Suns,Cleveland Cavaliers,0.20358964027819348,0.7964103597218065
+197,"Fri, Mar 23, 2018",10:30 pm,Atlanta Hawks,Golden State Warriors,0.0699401995785488,0.9300598004214512
+198,"Fri, Mar 23, 2018",7:00 pm,Los Angeles Clippers,Indiana Pacers,0.37974911411615464,0.6202508858838454
+199,"Fri, Mar 23, 2018",7:30 pm,Minnesota Timberwolves,New York Knicks,0.5388899481541282,0.46111005184587184
+200,"Fri, Mar 23, 2018",8:00 pm,Miami Heat,Oklahoma City Thunder,0.33252602472014536,0.6674739752798546
+201,"Fri, Mar 23, 2018",10:00 pm,Boston Celtics,Portland Trail Blazers,0.5688499656618059,0.4311500343381941
+202,"Fri, Mar 23, 2018",8:30 pm,Utah Jazz,San Antonio Spurs,0.28177848154543206,0.7182215184545679
+203,"Fri, Mar 23, 2018",7:30 pm,Brooklyn Nets,Toronto Raptors,0.08950471147656125,0.9104952885234388
+204,"Fri, Mar 23, 2018",7:00 pm,Denver Nuggets,Washington Wizards,0.37243754295062526,0.6275624570493747
+205,"Sat, Mar 24, 2018",8:30 pm,Charlotte Hornets,Dallas Mavericks,0.4806567903798271,0.5193432096201729
+206,"Sat, Mar 24, 2018",7:00 pm,Chicago Bulls,Detroit Pistons,0.2867535174451311,0.7132464825548689
+207,"Sat, Mar 24, 2018",8:00 pm,New Orleans Pelicans,Houston Rockets,0.2075509658558118,0.7924490341441882
+208,"Sat, Mar 24, 2018",8:00 pm,Los Angeles Lakers,Memphis Grizzlies,0.5566981206209978,0.4433018793790022
+209,"Sat, Mar 24, 2018",7:00 pm,Phoenix Suns,Orlando Magic,0.411592464937397,0.588407535062603
+210,"Sat, Mar 24, 2018",6:00 pm,Minnesota Timberwolves,Philadelphia 76ers,0.42469640445964696,0.575303595540353
+211,"Sun, Mar 25, 2018",1:00 pm,Cleveland Cavaliers,Brooklyn Nets,0.7100298831336324,0.28997011686636764
+212,"Sun, Mar 25, 2018",8:30 pm,Utah Jazz,Golden State Warriors,0.16408589992802547,0.8359141000719745
+213,"Sun, Mar 25, 2018",8:00 pm,Atlanta Hawks,Houston Rockets,0.0558760993984867,0.9441239006015133
+214,"Sun, Mar 25, 2018",5:00 pm,Miami Heat,Indiana Pacers,0.36497353874591953,0.6350264612540805
+215,"Sun, Mar 25, 2018",3:30 pm,San Antonio Spurs,Milwaukee Bucks,0.40161682058893255,0.5983831794110674
+216,"Sun, Mar 25, 2018",7:00 pm,Portland Trail Blazers,Oklahoma City Thunder,0.3332226488508264,0.6667773511491736
+217,"Sun, Mar 25, 2018",6:00 pm,Boston Celtics,Sacramento Kings,0.823038995196642,0.17696100480335797
+218,"Sun, Mar 25, 2018",6:00 pm,Los Angeles Clippers,Toronto Raptors,0.22076947592938412,0.7792305240706159
+219,"Sun, Mar 25, 2018",6:00 pm,New York Knicks,Washington Wizards,0.2265996039476147,0.7734003960523853
+220,"Mon, Mar 26, 2018",7:00 pm,New York Knicks,Charlotte Hornets,0.3107826792344698,0.6892173207655302
+221,"Mon, Mar 26, 2018",7:00 pm,Los Angeles Lakers,Detroit Pistons,0.4177860075289722,0.5822139924710278
+222,"Mon, Mar 26, 2018",8:00 pm,Memphis Grizzlies,Minnesota Timberwolves,0.1436075352362166,0.8563924647637834
+223,"Mon, Mar 26, 2018",7:00 pm,Denver Nuggets,Philadelphia 76ers,0.4087876922823568,0.5912123077176432
+224,"Mon, Mar 26, 2018",10:00 pm,Boston Celtics,Phoenix Suns,0.8548644859346808,0.14513551406531927
+225,"Tue, Mar 27, 2018",10:30 pm,Indiana Pacers,Golden State Warriors,0.20688803563348146,0.7931119643665185
+226,"Tue, Mar 27, 2018",8:00 pm,Chicago Bulls,Houston Rockets,0.08967927603888703,0.910320723961113
+227,"Tue, Mar 27, 2018",10:30 pm,Milwaukee Bucks,Los Angeles Clippers,0.415189442471369,0.584810557528631
+228,"Tue, Mar 27, 2018",8:00 pm,Cleveland Cavaliers,Miami Heat,0.5597054245861326,0.4402945754138674
+229,"Tue, Mar 27, 2018",8:00 pm,Portland Trail Blazers,New Orleans Pelicans,0.44598698645213775,0.5540130135478623
+230,"Tue, Mar 27, 2018",10:00 pm,Dallas Mavericks,Sacramento Kings,0.4070662056662616,0.5929337943337384
+231,"Tue, Mar 27, 2018",7:30 pm,Denver Nuggets,Toronto Raptors,0.20228503089959182,0.7977149691004082
+232,"Tue, Mar 27, 2018",7:00 pm,San Antonio Spurs,Washington Wizards,0.394110810414103,0.605889189585897
+233,"Wed, Mar 28, 2018",7:00 pm,Cleveland Cavaliers,Charlotte Hornets,0.572532455396197,0.42746754460380293
+234,"Wed, Mar 28, 2018",10:30 pm,Dallas Mavericks,Los Angeles Lakers,0.31737407799294803,0.682625922007052
+235,"Wed, Mar 28, 2018",8:00 pm,Portland Trail Blazers,Memphis Grizzlies,0.5966442473976179,0.40335575260238216
+236,"Wed, Mar 28, 2018",8:00 pm,Atlanta Hawks,Minnesota Timberwolves,0.11434514346553526,0.8856548565344647
+237,"Wed, Mar 28, 2018",7:00 pm,Brooklyn Nets,Orlando Magic,0.38456275303107557,0.6154372469689244
+238,"Wed, Mar 28, 2018",7:00 pm,New York Knicks,Philadelphia 76ers,0.2544879707494945,0.7455120292505055
+239,"Wed, Mar 28, 2018",10:00 pm,Los Angeles Clippers,Phoenix Suns,0.7524648161075282,0.2475351838924717
+240,"Wed, Mar 28, 2018",9:30 pm,Boston Celtics,Utah Jazz,0.5683863265680953,0.4316136734319047
+241,"Thu, Mar 29, 2018",7:00 pm,Washington Wizards,Detroit Pistons,0.4984230401512316,0.5015769598487684
+242,"Thu, Mar 29, 2018",10:30 pm,Milwaukee Bucks,Golden State Warriors,0.20113595486838065,0.7988640451316193
+243,"Thu, Mar 29, 2018",7:30 pm,Chicago Bulls,Miami Heat,0.3025635864024613,0.6974364135975387
+244,"Thu, Mar 29, 2018",10:00 pm,Indiana Pacers,Sacramento Kings,0.691406270754096,0.30859372924590395
+245,"Thu, Mar 29, 2018",8:00 pm,Oklahoma City Thunder,San Antonio Spurs,0.33974872018637114,0.6602512798136289
+246,"Fri, Mar 30, 2018",7:30 pm,Philadelphia 76ers,Atlanta Hawks,0.7076551165864293,0.29234488341357073
+247,"Fri, Mar 30, 2018",8:00 pm,New Orleans Pelicans,Cleveland Cavaliers,0.4393773638577392,0.5606226361422608
+248,"Fri, Mar 30, 2018",8:30 pm,Minnesota Timberwolves,Dallas Mavericks,0.568801126920331,0.43119887307966903
+249,"Fri, Mar 30, 2018",8:00 pm,Phoenix Suns,Houston Rockets,0.07870525610204271,0.9212947438979573
+250,"Fri, Mar 30, 2018",10:30 pm,Milwaukee Bucks,Los Angeles Lakers,0.5942396444961231,0.40576035550387696
+251,"Fri, Mar 30, 2018",8:00 pm,Denver Nuggets,Oklahoma City Thunder,0.3220341235298473,0.6779658764701527
+252,"Fri, Mar 30, 2018",7:00 pm,Chicago Bulls,Orlando Magic,0.4464874084003022,0.5535125915996978
+253,"Fri, Mar 30, 2018",10:30 pm,Los Angeles Clippers,Portland Trail Blazers,0.4050870807120903,0.5949129192879097
+254,"Fri, Mar 30, 2018",9:00 pm,Memphis Grizzlies,Utah Jazz,0.19193865051760317,0.8080613494823968
+255,"Sat, Mar 31, 2018",7:30 pm,Toronto Raptors,Boston Celtics,0.4712825527457398,0.5287174472542602
+256,"Sat, Mar 31, 2018",8:00 pm,Brooklyn Nets,Miami Heat,0.2515292971406333,0.7484707028593667
+257,"Sat, Mar 31, 2018",5:00 pm,Detroit Pistons,New York Knicks,0.45727791698660913,0.5427220830133909
+258,"Sat, Mar 31, 2018",10:00 pm,Golden State Warriors,Sacramento Kings,0.8846566614075089,0.11534333859249114
+259,"Sat, Mar 31, 2018",3:00 pm,Charlotte Hornets,Washington Wizards,0.30774330180026543,0.6922566981997346
+260,"Sun, Apr 1, 2018",6:00 pm,Orlando Magic,Atlanta Hawks,0.3670271517846191,0.6329728482153809
+261,"Sun, Apr 1, 2018",6:00 pm,Detroit Pistons,Brooklyn Nets,0.5624199352395729,0.43758006476042705
+262,"Sun, Apr 1, 2018",3:30 pm,Washington Wizards,Chicago Bulls,0.6931357649070184,0.3068642350929816
+263,"Sun, Apr 1, 2018",1:00 pm,Philadelphia 76ers,Charlotte Hornets,0.5827546626707696,0.4172453373292304
+264,"Sun, Apr 1, 2018",6:00 pm,Dallas Mavericks,Cleveland Cavaliers,0.1584180434439666,0.8415819565560334
+265,"Sun, Apr 1, 2018",8:00 pm,Milwaukee Bucks,Denver Nuggets,0.3606373002542389,0.6393626997457611
+266,"Sun, Apr 1, 2018",8:30 pm,Phoenix Suns,Golden State Warriors,0.0979195315685385,0.9020804684314615
+267,"Sun, Apr 1, 2018",3:30 pm,Indiana Pacers,Los Angeles Clippers,0.4238154272984085,0.5761845727015915
+268,"Sun, Apr 1, 2018",9:30 pm,Sacramento Kings,Los Angeles Lakers,0.3806374535908654,0.6193625464091346
+269,"Sun, Apr 1, 2018",7:00 pm,Utah Jazz,Minnesota Timberwolves,0.2520641942349572,0.7479358057650428
+270,"Sun, Apr 1, 2018",6:00 pm,Oklahoma City Thunder,New Orleans Pelicans,0.44057913979964325,0.5594208602003568
+271,"Sun, Apr 1, 2018",9:00 pm,Memphis Grizzlies,Portland Trail Blazers,0.19223198093026517,0.8077680190697348
+272,"Sun, Apr 1, 2018",3:30 pm,Houston Rockets,San Antonio Spurs,0.5587069717717872,0.44129302822821287
+273,"Tue, Apr 3, 2018",8:00 pm,Charlotte Hornets,Chicago Bulls,0.5776852919889972,0.42231470801100285
+274,"Tue, Apr 3, 2018",7:00 pm,Toronto Raptors,Cleveland Cavaliers,0.5420446319808485,0.45795536801915143
+275,"Tue, Apr 3, 2018",8:30 pm,Portland Trail Blazers,Dallas Mavericks,0.5652015152005844,0.43479848479941563
+276,"Tue, Apr 3, 2018",9:00 pm,Indiana Pacers,Denver Nuggets,0.3688447382920609,0.6311552617079391
+277,"Tue, Apr 3, 2018",8:00 pm,Washington Wizards,Houston Rockets,0.19581467035300937,0.8041853296469906
+278,"Tue, Apr 3, 2018",10:30 pm,San Antonio Spurs,Los Angeles Clippers,0.43600092337022966,0.5639990766297703
+279,"Tue, Apr 3, 2018",7:30 pm,Atlanta Hawks,Miami Heat,0.20674094785688046,0.7932590521431195
+280,"Tue, Apr 3, 2018",8:00 pm,Boston Celtics,Milwaukee Bucks,0.5700162849411061,0.4299837150588939
+281,"Tue, Apr 3, 2018",7:30 pm,Orlando Magic,New York Knicks,0.28620663968249593,0.7137933603175041
+282,"Tue, Apr 3, 2018",8:00 pm,Golden State Warriors,Oklahoma City Thunder,0.6290473395446283,0.3709526604553717
+283,"Tue, Apr 3, 2018",7:00 pm,Brooklyn Nets,Philadelphia 76ers,0.21138400271836388,0.7886159972816361
+284,"Tue, Apr 3, 2018",10:00 pm,Sacramento Kings,Phoenix Suns,0.534723121450846,0.465276878549154
+285,"Tue, Apr 3, 2018",9:00 pm,Los Angeles Lakers,Utah Jazz,0.3520535629896461,0.6479464370103539
+286,"Wed, Apr 4, 2018",7:30 pm,Miami Heat,Atlanta Hawks,0.6240944051251651,0.37590559487483494
+287,"Wed, Apr 4, 2018",7:00 pm,Philadelphia 76ers,Detroit Pistons,0.5512650460828208,0.44873495391717916
+288,"Wed, Apr 4, 2018",10:30 pm,San Antonio Spurs,Los Angeles Lakers,0.6145940457775281,0.3854059542224719
+289,"Wed, Apr 4, 2018",9:30 pm,Memphis Grizzlies,New Orleans Pelicans,0.23004345439762997,0.76995654560237
+290,"Wed, Apr 4, 2018",7:00 pm,Dallas Mavericks,Orlando Magic,0.3399708915781885,0.6600291084218115
+291,"Wed, Apr 4, 2018",7:00 pm,Boston Celtics,Toronto Raptors,0.3544090603318415,0.6455909396681585
+292,"Thu, Apr 5, 2018",8:00 pm,Washington Wizards,Cleveland Cavaliers,0.42150476975932394,0.5784952302406761
+293,"Thu, Apr 5, 2018",10:30 pm,Minnesota Timberwolves,Denver Nuggets,0.3743248597721335,0.6256751402278665
+294,"Thu, Apr 5, 2018",8:00 pm,Portland Trail Blazers,Houston Rockets,0.1715769666795981,0.8284230333204019
+295,"Thu, Apr 5, 2018",7:00 pm,Golden State Warriors,Indiana Pacers,0.661743272810689,0.338256727189311
+296,"Thu, Apr 5, 2018",8:00 pm,Brooklyn Nets,Milwaukee Bucks,0.19184508569269942,0.8081549143073006
+297,"Thu, Apr 5, 2018",9:00 pm,Los Angeles Clippers,Utah Jazz,0.4046316511127609,0.5953683488872391
+298,"Fri, Apr 6, 2018",7:30 pm,Chicago Bulls,Boston Celtics,0.18167081404753116,0.8183291859524688
+299,"Fri, Apr 6, 2018",7:00 pm,Dallas Mavericks,Detroit Pistons,0.20428017755687522,0.7957198224431248
+300,"Fri, Apr 6, 2018",10:30 pm,Minnesota Timberwolves,Los Angeles Lakers,0.6083571605607881,0.39164283943921185
+301,"Fri, Apr 6, 2018",8:00 pm,Sacramento Kings,Memphis Grizzlies,0.37259706535452797,0.627402934645472
+302,"Fri, Apr 6, 2018",7:30 pm,Miami Heat,New York Knicks,0.5344642297479091,0.4655357702520909
+303,"Fri, Apr 6, 2018",7:00 pm,Charlotte Hornets,Orlando Magic,0.5469812124366342,0.4530187875633658
+304,"Fri, Apr 6, 2018",7:00 pm,Cleveland Cavaliers,Philadelphia 76ers,0.5034589711978886,0.4965410288021114
+305,"Fri, Apr 6, 2018",10:00 pm,New Orleans Pelicans,Phoenix Suns,0.783545815103065,0.21645418489693508
+306,"Fri, Apr 6, 2018",7:30 pm,Indiana Pacers,Toronto Raptors,0.20914505635027025,0.7908549436497297
+307,"Fri, Apr 6, 2018",7:00 pm,Atlanta Hawks,Washington Wizards,0.15140696245351104,0.848593037546489
+308,"Sat, Apr 7, 2018",8:00 pm,Brooklyn Nets,Chicago Bulls,0.41449145764756234,0.5855085423524377
+309,"Sat, Apr 7, 2018",8:30 pm,New Orleans Pelicans,Golden State Warriors,0.24969513696926415,0.7503048630307358
+310,"Sat, Apr 7, 2018",8:30 pm,Oklahoma City Thunder,Houston Rockets,0.16848458697593482,0.8315154130240652
+311,"Sat, Apr 7, 2018",3:30 pm,Denver Nuggets,Los Angeles Clippers,0.4135965386122453,0.5864034613877547
+312,"Sat, Apr 7, 2018",7:30 pm,Milwaukee Bucks,New York Knicks,0.5242266993532325,0.4757733006467674
+313,"Sat, Apr 7, 2018",9:00 pm,Portland Trail Blazers,San Antonio Spurs,0.3446814887148497,0.6553185112851503
+314,"Sun, Apr 8, 2018",7:30 pm,Atlanta Hawks,Boston Celtics,0.1176752210887696,0.8823247789112304
+315,"Sun, Apr 8, 2018",1:00 pm,Indiana Pacers,Charlotte Hornets,0.48784309513624846,0.5121569048637515
+316,"Sun, Apr 8, 2018",6:00 pm,Utah Jazz,Los Angeles Lakers,0.5330999869032178,0.4669000130967822
+317,"Sun, Apr 8, 2018",3:30 pm,Detroit Pistons,Memphis Grizzlies,0.5197355485392942,0.48026445146070584
+318,"Sun, Apr 8, 2018",1:00 pm,Dallas Mavericks,Philadelphia 76ers,0.18096828047557978,0.8190317195244202
+319,"Sun, Apr 8, 2018",9:00 pm,Golden State Warriors,Phoenix Suns,0.9066573338355389,0.0933426661644611
+320,"Sun, Apr 8, 2018",6:00 pm,Orlando Magic,Toronto Raptors,0.08499230532224544,0.9150076946777546
+321,"Mon, Apr 9, 2018",7:30 pm,Chicago Bulls,Brooklyn Nets,0.45523088633505604,0.544769113664944
+322,"Mon, Apr 9, 2018",9:00 pm,Portland Trail Blazers,Denver Nuggets,0.3708973605501522,0.6291026394498478
+323,"Mon, Apr 9, 2018",7:00 pm,Toronto Raptors,Detroit Pistons,0.6174805250996134,0.3825194749003866
+324,"Mon, Apr 9, 2018",10:30 pm,New Orleans Pelicans,Los Angeles Clippers,0.4841097927430882,0.5158902072569118
+325,"Mon, Apr 9, 2018",7:30 pm,Oklahoma City Thunder,Miami Heat,0.47153875620855523,0.5284612437914448
+326,"Mon, Apr 9, 2018",8:00 pm,Orlando Magic,Milwaukee Bucks,0.18321136680985262,0.8167886331901474
+327,"Mon, Apr 9, 2018",8:00 pm,Memphis Grizzlies,Minnesota Timberwolves,0.1436075352362166,0.8563924647637834
+328,"Mon, Apr 9, 2018",7:30 pm,Cleveland Cavaliers,New York Knicks,0.6161489291929803,0.3838510708070197
+329,"Mon, Apr 9, 2018",8:30 pm,Sacramento Kings,San Antonio Spurs,0.17435173663399228,0.8256482633660077
+330,"Tue, Apr 10, 2018",7:30 pm,Philadelphia 76ers,Atlanta Hawks,0.7076551165864293,0.29234488341357073
+331,"Tue, Apr 10, 2018",8:30 pm,Phoenix Suns,Dallas Mavericks,0.34903619195516433,0.6509638080448357
+332,"Tue, Apr 10, 2018",7:00 pm,Charlotte Hornets,Indiana Pacers,0.29102399187648986,0.7089760081235101
+333,"Tue, Apr 10, 2018",10:30 pm,Houston Rockets,Los Angeles Lakers,0.7865353955341524,0.2134646044658476
+334,"Tue, Apr 10, 2018",9:00 pm,Golden State Warriors,Utah Jazz,0.6847057004183827,0.3152942995816172
+335,"Tue, Apr 10, 2018",8:00 pm,Boston Celtics,Washington Wizards,0.5623205974477365,0.4376794025522635
+336,"Wed, Apr 11, 2018",8:00 pm,Brooklyn Nets,Boston Celtics,0.14673761412858155,0.8532623858714184
+337,"Wed, Apr 11, 2018",8:00 pm,Detroit Pistons,Chicago Bulls,0.584304860549072,0.41569513945092795
+338,"Wed, Apr 11, 2018",8:00 pm,New York Knicks,Cleveland Cavaliers,0.22529656733525294,0.7747034326647471
+339,"Wed, Apr 11, 2018",10:30 pm,Los Angeles Lakers,Los Angeles Clippers,0.38649892689162535,0.6135010731083747
+340,"Wed, Apr 11, 2018",8:00 pm,Toronto Raptors,Miami Heat,0.6352837536105793,0.36471624638942063
+341,"Wed, Apr 11, 2018",8:00 pm,Denver Nuggets,Minnesota Timberwolves,0.3004257463468477,0.6995742536531523
+342,"Wed, Apr 11, 2018",8:00 pm,San Antonio Spurs,New Orleans Pelicans,0.45611727187296225,0.5438827281270378
+343,"Wed, Apr 11, 2018",8:00 pm,Memphis Grizzlies,Oklahoma City Thunder,0.15645923209195955,0.8435407679080404
+344,"Wed, Apr 11, 2018",8:00 pm,Washington Wizards,Orlando Magic,0.6659720151628374,0.3340279848371625
+345,"Wed, Apr 11, 2018",8:00 pm,Milwaukee Bucks,Philadelphia 76ers,0.4103750365888542,0.5896249634111458
+346,"Wed, Apr 11, 2018",10:30 pm,Utah Jazz,Portland Trail Blazers,0.32353776728781414,0.6764622327121859
+347,"Wed, Apr 11, 2018",10:30 pm,Houston Rockets,Sacramento Kings,0.8447397252591207,0.15526027474087936
