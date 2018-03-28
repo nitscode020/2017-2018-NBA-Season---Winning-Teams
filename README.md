@@ -15,7 +15,7 @@ I used Python 3.6 to complete the entire project. Libraries that I used –
 •	Sklearn for modeling and evaluation
 •	Matplotlib and Seaborn for visualizations
 
-Data Collection Process
+Data Collection Process -  
 The data collection process is currently automated. To predict the matches for this season I have used the statistics for this season. 
 Current code scraps the websites and collects the data. This data consists of required training data (team stats, previous matches, wins, 
 losses, ratings, points etc.) and upcoming matches schedule. Training data is then analyzed and used to train a logistic regression model. 
